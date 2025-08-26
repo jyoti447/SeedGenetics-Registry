@@ -48,8 +48,17 @@ We aim to bridge the gap between traditional farming knowledge and modern blockc
 
 ## Contract Address Details
 
-0x3250b71ad14425d484aca638bc3460c9fc4f37a785eb4b70cc8229ca502ff56a
-![alt text](<Screenshot 2025-08-26 at 12.07.34 PM.png>)
+*Contract address information will be updated after deployment*
+
+**Mainnet Address**: `[To be added after mainnet deployment]`
+
+**Testnet Address**: `[To be added after testnet deployment]`
+
+**Contract Name**: `seed-genetics-registry`
+
+**Deployment Block**: `[To be updated]`
+
+**Network**: Stacks Blockchain
 
 ---
 
@@ -69,4 +78,12 @@ We aim to bridge the gap between traditional farming knowledge and modern blockc
 3. Begin registering seed varieties using the `register-seed-variety` function
 4. Query seed information using the `get-seed-info` function
 
-# SeedGenetics-Registry
+
+---
+
+
+## Contract Address Details
+
+0x3250b71ad14425d484aca638bc3460c9fc4f37a785eb4b70cc8229ca502ff56a
+![alt text](<Screenshot 2025-08-26 at 12.07.34 PM.png>)
+---
