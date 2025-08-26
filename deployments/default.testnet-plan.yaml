@@ -1,0 +1,18 @@
+---
+id: 0
+name: Testnet deployment
+network: testnet
+stacks-node: "https://api.testnet.hiro.so"
+bitcoin-node: "http://blockstack:blockstacksystem@bitcoind.testnet.stacks.co:18332"
+plan:
+  batches:
+    - id: 0
+      transactions:
+        - contract-publish:
+            contract-name: Seedgenetics-Registry
+            expected-sender: ST15X5VJW5P8G50WY0BFSXG5J512H66M8V4T4D3W1
+            cost: 37730
+            path: contracts/Seedgenetics-Registry.clar
+            anchor-block-only: true
+            clarity-version: 3
+      epoch: "3.2"
