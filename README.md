@@ -48,15 +48,8 @@ We aim to bridge the gap between traditional farming knowledge and modern blockc
 
 ## Contract Address Details
 
-*Contract address information will be updated after deployment*
+contract ID:0x3250b71ad14425d484aca638bc3460c9fc4f37a785eb4b70cc8229ca502ff56a
 
-**Mainnet Address**: `[To be added after mainnet deployment]`
-
-**Testnet Address**: `[To be added after testnet deployment]`
-
-**Contract Name**: `seed-genetics-registry`
-
-**Deployment Block**: `[To be updated]`
 
 **Network**: Stacks Blockchain
 
